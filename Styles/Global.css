@@ -1,0 +1,32 @@
+header { background-color: #333;
+        color: orange;
+        padding: 10px 0;
+        text-align: center;}
+
+footer {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 10px 0;
+        margin-top: 20px;
+      }
+
+nav {
+        background-color: #444;
+        padding: 10px 0;
+        text-align: center;
+      }
+      nav a {
+        color: white;
+        margin: 0 15px;
+        text-decoration: none;
+        font-weight: bold;
+      }
+
+body {
+  background: linear-gradient(to bottom, #ffffff, #d3d3d3);
+}
+
+section p {
+    text-align: justify;
+}
